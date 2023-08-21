@@ -27,6 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/mzamann1/mzamann1/output/snake.svg" alt="Snake animation" />
 
+
 ### Profile Views
 
 <div align="center">
